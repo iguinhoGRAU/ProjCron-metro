@@ -1,5 +1,5 @@
-<h1>Projeto Cronômetro</h1>
-<p>Este é um projeto simples de cronômetro.</p>
+<h1>Projeto IMC</h1>
+<p>Este é um projeto simples sobre o IMC.</p>
 <h2>Descrição</h2>
 <p>Uma descrição mais detalhada do projeto, explicando o que é, para que serve e por que alguém deveria usá-lo.</p>
 <h2>Funcionalidades</h2>
